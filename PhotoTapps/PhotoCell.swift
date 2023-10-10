@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// SOME COMMENT
 class PhotoCell: UICollectionViewCell {
 
     @IBOutlet weak var dogImageView: UIImageView!
